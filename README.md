@@ -1,6 +1,3 @@
 # lkctc
 
-am adding ststus festure in it
-
-
-we added a bew feature
+we are adding new features in it
